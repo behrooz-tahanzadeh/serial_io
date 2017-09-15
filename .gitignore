@@ -1,0 +1,12 @@
+node_modules/
+.settings/
+.vscode/
+devel/
+build/
+
+.project
+.buildpath
+.css
+**/*.pyc
+**/*~
+index.php
