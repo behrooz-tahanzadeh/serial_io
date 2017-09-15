@@ -2,7 +2,7 @@
 <package>
   <name>serial_io</name>
   <version>0.0.0</version>
-  <description>Arduino server</description>
+  <description>serial interface for ros</description>
 
   <maintainer email="behrooz.tahanzadeh@gmail.com">Behrooz Tahanzadeh</maintainer>
 
