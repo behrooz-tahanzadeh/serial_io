@@ -1,8 +1,9 @@
 <launch>
 
-	<group ns="i2c">
+	<group ns="arduino">
 		<node name="serial_interface" pkg="serial_io" type="serial_interface.py">
 			<param name="port" value="/dev/ttyACM0"/>
+			<param name="baudrate" value="9600"/>
 		</node>
 	</group>
 
